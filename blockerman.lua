@@ -1,3 +1,5 @@
+-- SRC CUSTOM MADE BY W3NTEDD
+
 local RunService = game:GetService("RunService")
 local Players = game:GetService("Players")
 local UserInputService = game:GetService("UserInputService")
@@ -942,6 +944,3 @@ end
 end)
 
 print("Custom minesweeper script made by W3ntedd")
-
-
--- SRC GIVE CREDIT TO ME AND SHAGGY
